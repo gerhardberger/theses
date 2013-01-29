@@ -27,6 +27,23 @@ Az alkalmazott nyelvtudomány egy ága. Képviselői a nyelvhelyesség elvei ala
 * szlengesedés
 * szegényes szókincs
 
+##### Történelem
+* középkorban kezdtek el vele foglalkozni
+* Sylvester János
+* Dévai Bíró Mátyás - Első magyar nyelvtan
+* Szenczi Molnár Albert - Első teljes magyar nyelvtan
+* __Geleji Katona Sándor__ - első nyelvművelő munka 1654
+* Medgyesi Pál - a kor másik nagy nyelvművelője
+* Apáczay Csere János - Magyar Enciklopédia 1653
+* 1772 - 1867: Nylevújítás mozgalom
+* Egységes irodalmi és köznyelv kialakulása
+* 1830 MTA
+* 1832 Első Helyesírási Szabályzat
+* 1872 Magyar Nyelvőr
+* Magyar Értelmező Kéziszótár
+* Idegen Szavak Szótára
+* Magyar Szókincstár
+
 ##### Leggyakoribb nyelvhelyességi vétségek
 * __kiejtés, hangzás szintjén:__ magánhangzók és mássalhangzók időtartamának tévesztése. Pl.: körút, lakos, turista, posta, utál
 * __nyelvtani formák szintjén:__
