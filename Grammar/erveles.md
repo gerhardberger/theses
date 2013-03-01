@@ -69,7 +69,7 @@ Az érvelés része a cáfolat is. Ahhoz, hogy eredményesen és tisztességesen
 	* példák
 	* szemléltetés
 	* kitérők személyes élményekkel
-	* először a főtéma részletezése
+	* először a főtéma részletezése.
 
 ##### Bizonyítás
 * Az érvelő fogalmazás legfontosabb része. Álláspont igazságának bizonyítása érvekkel
