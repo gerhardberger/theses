@@ -33,7 +33,7 @@ Az alakzatok három különböző szinten jelenhetnek meg:
 * egyszerű szórendi csere
 * jelző áthelyezése
 * cselekvést, okot jelölő szavak felcserélése.
-* szórendszere (inverzió)
+* szórendczere (inverzió)
 
 ### Gondolatalakzatok
 * párhuzam
