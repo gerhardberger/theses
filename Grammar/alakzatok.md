@@ -22,7 +22,8 @@ Az alakzatok három különböző szinten jelenhetnek meg:
 * az első szerkezet vagy tagmondat megismétlődik a mondat végén.
 * az utolsó szószerkezet ismétlődik meg a mondatban, vagy más szövegegységben
 * felsorolás
-* fokozás
+* halmozás: egymással rokon szavakat, szószerkezeteket, esetleg mondatokat sorolunk fel egymás után
+* fokozás: olyan halmozás, ahol az egymás után következő szavak között intenzitásbeli különbség van, az érzelmi feszültség egyre nő
 * szótőismétlés (figura etimologica).
 
 ##### Elhagyás
@@ -32,13 +33,23 @@ Az alakzatok három különböző szinten jelenhetnek meg:
 * egyszerű szórendi csere
 * jelző áthelyezése
 * cselekvést, okot jelölő szavak felcserélése.
+* szórendszere (inverzió)
 
 ### Gondolatalakzatok
 * párhuzam
-* ellentét
+* ellentét: egymással ellentétes tartalmú elemek kerülnek egymás mellé
 * párhuzam és ellentét együtt
 * ismétlés és megfordítás
-* kérdés
+* költői kérdés
 * felkiáltás (érzelmi alakzat)
-* paradoxon (látszólagos képtelenség)
-* oximoron (a paradoxon erős változata, egy szószerkezeten belüli ellentmondás).
+* paradoxon: látszólagos képtelenség
+* oximoron: a paradoxon erős változata, egy szószerkezeten belüli ellentmondás.
+
+### Más alakzatok
+* alliteráció
+* rímek
+* enjambement (soráthajlás)
+* strófa, versszak
+* refrén
+* keret
+* késleltetés (retardáció).
