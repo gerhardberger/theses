@@ -3,83 +3,83 @@ József Attila - Memoriterek
 
 #### Tiszta szívvel
 
-Nincsen apám, se anyám, <br />
-se istenem, se hazám, <br />
-se bölcsőm, se szemfedőm, <br />
-se csókom, se szeretőm. <br />
- <br />
-Harmadnapja nem eszek, <br />
-se sokat, se keveset. <br />
-Húsz esztendőm hatalom, <br />
-húsz esztendőm eladom. <br />
- <br />
-Hogyha nem kell senkinek, <br />
-hát az ördög veszi meg. <br />
-Tiszta szívvel betörök, <br />
-ha kell, embert is ölök. <br />
- <br />
-Elfognak és felkötnek, <br />
-áldott földdel elfödnek <br />
-s halált hozó fű terem <br />
-gyönyörűszép szívemen. <br />
+Nincsen apám, se anyám,
+se istenem, se hazám,
+se bölcsőm, se szemfedőm,
+se csókom, se szeretőm.
+
+Harmadnapja nem eszek,
+se sokat, se keveset.
+Húsz esztendőm hatalom,
+húsz esztendőm eladom.
+
+Hogyha nem kell senkinek,
+hát az ördög veszi meg.
+Tiszta szívvel betörök,
+ha kell, embert is ölök.
+
+Elfognak és felkötnek,
+áldott földdel elfödnek
+s halált hozó fű terem
+gyönyörűszép szívemen.
 
 #### Óda
 
-Óh mennyire szeretlek téged, <br />
-ki szóra bírtad egyaránt <br />
-a szív legmélyebb üregeiben <br />
-cseleit szövő, fondor magányt <br />
-s a mindenséget. <br />
- <br />
-Szeretlek, mint anyját a gyermek, <br />
-mint mélyüket a hallgatag vermek, <br />
-szeretlek, mint a fényt a termek, <br />
-mint lángot a lélek, test a nyugalmat! <br />
-Szeretlek, mint élni szeretnek <br />
-halandók, amíg meg nem halnak. <br />
+Óh mennyire szeretlek téged,
+ki szóra bírtad egyaránt
+a szív legmélyebb üregeiben
+cseleit szövő, fondor magányt
+s a mindenséget.
+
+Szeretlek, mint anyját a gyermek,
+mint mélyüket a hallgatag vermek,
+szeretlek, mint a fényt a termek,
+mint lángot a lélek, test a nyugalmat!
+Szeretlek, mint élni szeretnek
+halandók, amíg meg nem halnak.
 
 #### Eszmélet
 
-Akár egy halom hasított fa, <br />
-hever egymáson a világ, <br />
-szorítja, nyomja, összefogja <br />
-egyik dolog a másikát <br />
-s így mindenik determinált. <br />
+Akár egy halom hasított fa,
+hever egymáson a világ,
+szorítja, nyomja, összefogja
+egyik dolog a másikát
+s így mindenik determinált.
 
 #### A Dunánál
 
-A harcot, amelyet őseink vivtak, <br />
-békévé oldja az emlékezés <br />
-s rendezni végre közös dolgainkat, <br />
-ez a mi munkánk; és nem is kevés. <br />
+A harcot, amelyet őseink vivtak,
+békévé oldja az emlékezés
+s rendezni végre közös dolgainkat,
+ez a mi munkánk; és nem is kevés.
 
 #### Hazám
 
-édes Hazám, fogadj szivedbe, <br />
-hadd legyek hűséges fiad! <br />
- <br />
-Tudod, hogy nincs bocsánat… <br />
- <br />
-Tudod, hogy nincs bocsánat, <br />
-hiába hát a bánat. <br />
-Légy, ami lennél: férfi. <br />
-A fű kinő utánad. <br />
- <br />
-Vagy vess el minden elvet <br />
-s még remélj hű szerelmet, <br />
-hisz mint a kutya hinnél <br />
-abban, ki bízna benned. <br />
+édes Hazám, fogadj szivedbe,
+hadd legyek hűséges fiad!
+
+Tudod, hogy nincs bocsánat…
+
+Tudod, hogy nincs bocsánat,
+hiába hát a bánat.
+Légy, ami lennél: férfi.
+A fű kinő utánad.
+
+Vagy vess el minden elvet
+s még remélj hű szerelmet,
+hisz mint a kutya hinnél
+abban, ki bízna benned.
 
 #### Talán eltűnök hirtelen…
 
-Talán eltűnök hirtelen, <br />
-akár az erdőben a vadnyom. <br />
-Elpazaroltam mindenem, <br />
-amiről számot kéne adnom. <br />
+Talán eltűnök hirtelen,
+akár az erdőben a vadnyom.
+Elpazaroltam mindenem,
+amiről számot kéne adnom.
 
 #### Íme, hát megleltem hazámat…
 
-Szép a tavasz és szép a nyár is, <br />
-de szebb az ősz s legszebb a tél, <br />
-annak, ki tűzhelyet, családot, <br />
-már végképp másoknak remél. <br />
+Szép a tavasz és szép a nyár is,
+de szebb az ősz s legszebb a tél,
+annak, ki tűzhelyet, családot,
+már végképp másoknak remél.
