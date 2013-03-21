@@ -15,7 +15,7 @@ Az alakzatok három különböző szinten jelenhetnek meg:
 * __Kicserélés__
 
 ### Mondatalakzatok
-##### Hozzásadás
+##### Hozzáadás
 * egyszerű ismétlés
 * kötőszó ismétlés
 * mondat (tagmondat) elejének ismétlése
