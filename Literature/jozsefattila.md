@@ -14,7 +14,7 @@ József Attila - Kései költészete
 * _Gyermeklét állapota_
 	* a gyermekkor elfojtott vágyai, érzései felszínre törnek
 	* oltalomra és védettségre vágyik, holott ezt szégyennek tartja
-* _Az anyag hiánya_
+* _Anya hiánya_
 	* a világ értelmetlenné válása, társkeresés reménytelen
 	* csalódottság
 
