@@ -16,34 +16,34 @@ Az alakzatok három különböző szinten jelenhetnek meg:
 
 ### Mondatalakzatok
 ##### Hozzásadás
-* egyszerű ismétlés
+* egyszerű __ismétlés__
 * kötőszó ismétlés
 * mondat (tagmondat) elejének ismétlése
 * az első szerkezet vagy tagmondat megismétlődik a mondat végén.
 * az utolsó szószerkezet ismétlődik meg a mondatban, vagy más szövegegységben
-* felsorolás
-* halmozás: egymással rokon szavakat, szószerkezeteket, esetleg mondatokat sorolunk fel egymás után
-* fokozás: olyan halmozás, ahol az egymás után következő szavak között intenzitásbeli különbség van, az érzelmi feszültség egyre nő
-* szótőismétlés (figura etimologica).
+* __felsorolás__
+* __halmozás:__ egymással rokon szavakat, szószerkezeteket, esetleg mondatokat sorolunk fel egymás után
+* __fokozás:__ olyan halmozás, ahol az egymás után következő szavak között intenzitásbeli különbség van, az érzelmi feszültség egyre nő
+* __szótőismétlés__ (_figura etimologica_).
 
 ##### Elhagyás
-* ellipszis: többtagú szószerkezet egy résztagjának elhagyása, kötőszó hiánya.
+* __ellipszis:__ többtagú szószerkezet egy résztagjának elhagyása, kötőszó hiánya.
 
 ##### Felcserélés
 * egyszerű szórendi csere
 * jelző áthelyezése
 * cselekvést, okot jelölő szavak felcserélése.
-* szórendczere (inverzió)
+* szórendczere (_inverzió_)
 
 ### Gondolatalakzatok
-* párhuzam
-* ellentét: egymással ellentétes tartalmú elemek kerülnek egymás mellé
+* __párhuzam__
+* __ellentét:__ egymással ellentétes tartalmú elemek kerülnek egymás mellé
 * párhuzam és ellentét együtt
 * ismétlés és megfordítás
 * költői kérdés
 * felkiáltás (érzelmi alakzat)
-* paradoxon: látszólagos képtelenség
-* oximoron: a paradoxon erős változata, egy szószerkezeten belüli ellentmondás.
+* __paradoxon:__ látszólagos képtelenség
+* __oximoron:__ a paradoxon erős változata, egy szószerkezeten belüli ellentmondás.
 
 ### Más alakzatok
 * alliteráció
