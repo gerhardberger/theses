@@ -24,7 +24,7 @@ Az alakzatok három különböző szinten jelenhetnek meg:
 * __felsorolás__
 * __halmozás:__ egymással rokon szavakat, szószerkezeteket, esetleg mondatokat sorolunk fel egymás után
 * __fokozás:__ olyan halmozás, ahol az egymás után következő szavak között intenzitásbeli különbség van, az érzelmi feszültség egyre nő
-* __szótőismétlés__ (_figura etimologica_).
+* __szótőismétlés__ _figura etimologica_.
 
 ##### Elhagyás
 * __ellipszis:__ többtagú szószerkezet egy résztagjának elhagyása, kötőszó hiánya.
